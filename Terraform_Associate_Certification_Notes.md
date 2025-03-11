@@ -2,15 +2,6 @@
 
 ---
 
-**About Me**
-
-Hi!
-I’m **Christian Bianchi**, a **Generative AI Engineer**, currently working at Storm Reply.
-As someone passionate about learning and sharing knowledge, I’ve decided to start creating guides and notes on various topics I’m exploring in my professional journey. This is part of my commitment to improve my note-taking and share useful resources with others.
-Feel free to reach out on [Linkedin](https://www.linkedin.com/in/christianbianchiit) if you have any questions, suggestions, or just want to connect!
-
----
-
 # Introduction
 
 Terraform is a powerful Infrastructure as Code (IaC) tool that enables developers and DevOps engineers to define, provision, and manage cloud infrastructure efficiently. Whether you're deploying on AWS, Azure, GCP, or other providers, Terraform simplifies infrastructure management with a declarative approach.
